@@ -1,0 +1,26 @@
+/* cau 2 */
+.button button{
+    width: 400px;
+    height: 400px;
+    justify-content: space-between;
+    align-items: center;
+    background-color: blueviolet;
+    color: white;
+}
+.button button:hover {
+    background-color: white;
+    color: blueviolet;
+}
+/* cau 4 */
+.time {
+    width: 1000px;
+    background-color: yellow;
+    color: white;
+
+}
+.time h1 {
+    text-align: center;
+    box-shadow: 5px 5px 5px 5px gray;    
+    font-size: 200px;
+}
+
